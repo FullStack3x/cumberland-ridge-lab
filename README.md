@@ -10,7 +10,7 @@ This is a self-directed lab simulating the identity and access management progra
 - Microsoft Entra ID tenant
  
 ## Architecture
-![Network diagram](diagrams/network.png)
+Network diagram will be added in Phase 1.
  
 ## Phases
 | Phase | Topic                | Status      | Link                       |
